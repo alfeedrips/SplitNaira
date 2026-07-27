@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/backend-cors-strict-prod-tests",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/backend-cors-strict-prod-tests": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/backend-cors-strict-prod-tests",
+    "origin"
+  ]
+}
